@@ -1,0 +1,16 @@
+body{
+    background: rgb(0, 0, 0);
+    margin-left: 30mm;
+    margin-top: 30mm;
+}
+h1{
+    color: yellow;
+    font-size: 75px;
+    text-decoration: 1px blue;
+    
+}
+*{
+    color: white;
+    line-height: 10mm;
+    font-style: arial;
+}

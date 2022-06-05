@@ -1,0 +1,9 @@
+.center{
+    display: block;
+    margin: 300px auto;
+    background-color: red;
+    
+    width: 400px;
+    line-height: 30px;
+}
+
